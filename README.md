@@ -252,4 +252,4 @@ This repository serves as the official landing page for Ulead VideoStudio. The s
 **Get the most recent version of Ulead VideoStudio today!**
 
 ---
-**Last updated:** 2026-11-06 08:44:34 UTC
+**Last updated:** 2026-11-06 16:28:33 UTC
